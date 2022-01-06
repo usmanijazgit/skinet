@@ -1,0 +1,15 @@
+/Users/usmanijaz/Desktop/skinet/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/Users/usmanijaz/Desktop/skinet/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/Users/usmanijaz/Desktop/skinet/Infrastructure/bin/Debug/net6.0/ref/Infrastructure.dll
+/Users/usmanijaz/Desktop/skinet/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/Users/usmanijaz/Desktop/skinet/Infrastructure/bin/Debug/net6.0/Core.dll
+/Users/usmanijaz/Desktop/skinet/Infrastructure/bin/Debug/net6.0/Core.pdb
+/Users/usmanijaz/Desktop/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/usmanijaz/Desktop/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usmanijaz/Desktop/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/usmanijaz/Desktop/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/usmanijaz/Desktop/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/usmanijaz/Desktop/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CopyComplete
+/Users/usmanijaz/Desktop/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/Users/usmanijaz/Desktop/skinet/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll
+/Users/usmanijaz/Desktop/skinet/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb
