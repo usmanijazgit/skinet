@@ -12,8 +12,8 @@ namespace Core.Specifications
         }
         
         public string? Sort {get; set;}
-        public int ? BrandId {get; set;}
-        public int? TypeId {get; set;}
+        public int ? brandId {get; set;}
+        public int? typeId {get; set;}
         private string? _search;
         public string Search 
         {

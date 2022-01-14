@@ -68,7 +68,7 @@ export class ShopComponent implements OnInit {
 
   onTypeSelected(typeId: number) {
     this.shopParams.typeId = typeId;
-    this.getTypes();
+    this.getProducts();
   }
 
   onSortSelected(sort: string) {
